@@ -1,0 +1,29 @@
+:root {
+    --color-white: #fff;
+    --color-black: #1e1e1e;
+
+    --color-pink: #f7a8b8;
+    --color-pink-light: #fff1f5; /* фон страницы */--color-pink: #f8a5b9;       /* акцент — кнопки, выделения */
+    --color-pink-dark: #e07a95;
+    
+    --color-green: #7bc47f;      /* основной зелёный — кнопки, активные элементы */
+    --color-green-dark: #56a05e; /* hover для зелёных кнопок */
+    --color-green-light: #cdeac0;
+    
+
+    --color-gray-1: #f7f7f7;
+    --color-gray-2: #e2e2e2;
+    --color-gray-3: #b6b6b6;
+    --color-gray-4: #6b6b6b;
+
+    --border: 1px solid var(--color-gray-2);
+    --border-radius: 8px;
+
+    --box-shadow: 0px 4px 4px -4px rgba(0, 0, 0, 0.08), 0px 16px 32px -4px rgba(0, 0, 0, 0.08);
+
+    --input-height: 40px;
+
+    --transition-duration: 0.2s;
+
+
+}
